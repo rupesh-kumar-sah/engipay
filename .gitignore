@@ -18,7 +18,6 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files
-.env*
 **/.env*
 
 # vercel
@@ -49,6 +48,6 @@ starkli.zip
 !**/.env.example
 
 # Personal editor and agent settings
-.vscode/
 .claude/
 .kiro/
+config.bat
